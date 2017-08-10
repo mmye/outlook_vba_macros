@@ -6,6 +6,7 @@ Sub Print_pages()
     print_range = InputBox("Please input which pages to print...")
     If print_range = "" Or Not print_range Like "[0-9-]" Then
         MsgBox "Please input valid page range."
+        Exit Sub
     End If
     
     SendKeys "{ENTER}"
