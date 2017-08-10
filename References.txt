@@ -1,0 +1,5 @@
+VBA|Visual Basic For Applications|{000204EF-0000-0000-C000-000000000046}|4|2|C:\Program Files (x86)\Common Files\Microsoft Shared\VBA\VBA7.1\VBE7.DLL
+Outlook|Microsoft Outlook 16.0 Object Library|{00062FFF-0000-0000-C000-000000000046}|9|6|C:\Program Files (x86)\Microsoft Office\Root\Office16\MSOUTL.OLB
+stdole|OLE Automation|{00020430-0000-0000-C000-000000000046}|2|0|C:\Windows\SysWOW64\stdole2.tlb
+Office|Microsoft Office 16.0 Object Library|{2DF8D04C-5BFA-101B-BDE5-00AA0044DE52}|2|8|C:\Program Files (x86)\Common Files\Microsoft Shared\OFFICE16\MSO.DLL
+Acrobat|Adobe Acrobat 10.0 Type Library|{E64169B3-3592-47D2-816E-602C5C13F328}|1|1|C:\Program Files (x86)\Adobe\Acrobat DC\Acrobat\acrobat.tlb
