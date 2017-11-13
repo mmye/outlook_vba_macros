@@ -44,9 +44,11 @@ Sub ConvertPDF()
                         On Error GoTo 0
                     End With
                 Case False
+                    On Error Resume Next
                     With CreateObject("Wscript.Shell")
                         .Run ConvertedFilePath, 5
                     End With
+                    On Error GoTo 0
             End Select
         End If
     Next
